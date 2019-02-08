@@ -1,0 +1,32 @@
+{
+  "Name": "Black Currant Squash",
+  "Description": "A dense syrup served mixed with cold water",
+  "Category": "Cooking",
+  "Edibility": 56,
+  "EdibleIsDrink": true,
+  "Price": 260,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Blackcurrant",
+        "Count": 2,
+      },
+      {
+        "Object": 245,
+        "Count": 2,
+      },
+    ],
+       "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1600,
+    "PurchaseRequirements": [
+     "y2",
+    ]
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  }
+}

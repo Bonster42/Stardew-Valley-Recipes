@@ -1,0 +1,38 @@
+{
+  "Name": "Black Forest Pudding",
+  "Description": "A fruit-packed pudding that makes a nice summer treat",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 555,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Blackcurrant",
+        "Count": 1,
+      },
+      {
+        "Object": 630,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2555,
+"GiftTastes": {
+	"Love": ["Abigail", "Haley", "Maru", "Sebastian"],
+	"Like": ["Alex", "Caroline", "Evelyn", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Emily", "Krobus", "Willy"]
+  }  
+}

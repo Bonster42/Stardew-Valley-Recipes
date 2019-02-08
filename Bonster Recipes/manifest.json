@@ -1,0 +1,22 @@
+{
+   "Name": "Bonster's Recipes",
+   "Author": "Bonster",
+   "Description": "A collection of recipes using Bonster's ingredients for JsonAssets",
+   "Version": "1.0.0",
+   "UniqueID": "Bonster.Recipes",
+   "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    },
+"Dependencies": [
+   {
+      "UniqueID": "BonsterTrees",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "BFV.FruitVeggie",
+      "IsRequired": true,
+   },
+]
+}
+
+

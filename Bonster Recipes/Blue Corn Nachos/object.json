@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Corn Nachos",
+  "Description": "A colorful meal with a kick.",
+  "Category": "Cooking",
+  "Edibility": 50,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 625,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Blue Corn",
+        "Count": 3,
+      },
+      {
+	"Object": 424,
+	"Count": 1,
+      }
+      {
+	"Object": 260,
+	"Count": 1,
+      }
+      {
+	"Object": 256,
+	"Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2270,
+    "PurchaseRequirements": [
+      "z spring summer",
+    ]
+  },
+	"GiftTastes": {
+	"Love":["Linus", "Abigail", "Shane"],
+    "Like": ["Alex", "Caroline", "Haley", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin",  "Sandy", "Sebastian", "Willy", "Wizard"],
+	"Dislike": ["Clint", "Jas", "Sam", "Vincent"],
+  }
+}

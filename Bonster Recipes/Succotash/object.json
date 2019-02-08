@@ -1,0 +1,41 @@
+{
+  "Name": "Succotash",
+  "Description": "You will not be suffering from this tasty, filling dish",
+  "Category": "Cooking",
+  "Edibility": 54,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 590,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Summer Squash",
+        "Count": 1,
+      },
+      {
+        "Object": "Cranberry Beans",
+        "Count": 1,
+      },
+      {
+        "Object": "Blue Corn",
+        "Count": 1,
+      },
+      {
+        "Object": 248,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3500,
+    "PurchaseRequirements": [
+"y 2",
+    ]
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Dwarf", "Krobus", "Willy"],
+  }
+}

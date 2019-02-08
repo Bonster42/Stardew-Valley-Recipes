@@ -1,0 +1,40 @@
+{
+  "Name": "Crimson Tea",
+  "Description": "Tart, sweet and fruity, pure refreshment on a hot day!",
+  "Category": "Cooking",
+  "Edibility": 34,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 490,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Roselle Hibiscus",
+        "Count": 1,
+      },
+      {
+        "Object": "Rose Hips",
+        "Count": 1,
+      },
+      {
+        "Object": 400,
+        "Count": 1,
+      },
+      {
+        "Object": 637,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2490,
+ 
+    ]
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Dwarf", "Krobus", "Willy"],
+  }
+}
